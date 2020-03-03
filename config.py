@@ -18,8 +18,9 @@ class EasyDict(dict):
 #----------------------------------------------------------------------------
 # Paths.
 
-data_dir = 'datasets'
-result_dir = 'results'
+#data_dir = './datasets'
+data_dir = '/Users/vincentlu/Documents/MachineLearning/AIDD/Exploring_Other_Tech/Tree_GAN/Tree_PGGAN_test2/datasets'
+result_dir = '/Users/vincentlu/Documents/MachineLearning/AIDD/Exploring_Other_Tech/Tree_GAN/Tree_PGGAN_test2/results'
 
 #----------------------------------------------------------------------------
 # TensorFlow options.
